@@ -1,0 +1,8 @@
+jpa\entity\Organization_.class
+jpa\entity\Activity_.class
+jpa\util\Tester.class
+jpa\entity\Organization.class
+jpa\entity\Member.class
+jpa\facade\DBFacade.class
+jpa\entity\Member_.class
+jpa\entity\Activity.class
